@@ -1,0 +1,10 @@
+{ "announcements": [{
+    "title": "Pizza Day",
+    "details": "Come hungry, next Wednesday is Pizza Day!",
+    "date": "April 06, 2016"
+ },{
+   "title": "Taco Day",
+   "details": "Come hungry, next Friday is Taco Day!",
+   "date": "April 08, 2016"
+  }]
+}

@@ -1,0 +1,33 @@
+{ "rentals": [{
+    "owner": "Veruca Salt",
+    "city": "San Francisco",
+    "type": "Estate",
+    "bedrooms": 15,
+    "image": "http://www.cookthatbook.com/wp-content/uploads/2011/06/MichaelSmith2.jpg"
+  }, {
+    "owner": "Mike TV",
+    "city": "Seattle",
+    "type": "Condo",
+    "bedrooms": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg"
+  }, {
+    "owner": "Violet Beauregarde",
+    "city": "Portland",
+    "type": "Apartment",
+    "bedrooms": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
+  }],
+ "announcements": [{
+      "title": "Pizza Day",
+      "details": "Come hungry, next Wednesday is Pizza Day!",
+      "date": "April 06, 2016"
+   },{
+     "title": "Taco Day",
+     "details": "Come hungry, next Friday is Taco Day!",
+     "date": "April 08, 2016"
+   },{
+     "title": "Happy Hour",
+     "details": "We will be having a happy hour party next Friday",
+     "date": "April 08, 2016"
+   }]
+}
